@@ -37,15 +37,15 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'spectrum' \
   'utility' \
-  'completion' \
-  'syntax-highlighting' \
-  'history-substring-search' \
-  'autosuggestions' \
-  'fasd' \
   'git' \
   'homebrew' \
   'docker' \
   'command-not-found' \
+  'completion' \
+  'fasd' \
+  'syntax-highlighting' \
+  'history-substring-search' \
+  'autosuggestions' \
   'prompt'
 
 #
